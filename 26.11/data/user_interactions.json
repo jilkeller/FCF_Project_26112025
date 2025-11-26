@@ -1,0 +1,82 @@
+[
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:36:53.097698"
+  },
+  {
+    "perfume_id": "api_dior_addict_2_for_women",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:36:54.943718"
+  },
+  {
+    "perfume_id": "api_bonne_etoile_baby_dior_unisex",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:36:57.191559"
+  },
+  {
+    "perfume_id": "api_miss_dior_2012_for_women",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:51:18.103802"
+  },
+  {
+    "perfume_id": "api_dior_homme_2005_for_men",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:51:19.366670"
+  },
+  {
+    "perfume_id": "api_dior_miss_dior_blooming_bouquet_bobby_limited_edition_for_women",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:51:21.251267"
+  },
+  {
+    "perfume_id": "api_dior_addict_eau_sensuelle_for_women",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:51:22.177202"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T11:13:37.100778"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T11:13:37.284606"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T11:18:56.631422"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T11:18:56.751061"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T11:20:34.231657"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T11:20:34.336020"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T11:20:49.835085"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T11:20:49.879313"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T11:20:50.011583"
+  }
+]
